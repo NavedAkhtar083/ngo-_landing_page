@@ -1,0 +1,160 @@
+
+header{
+    height:640px;
+    background-color:green;
+}
+.card1{
+    height: 250px;
+    margin-top:200px;
+    justify-content: center;
+    align-items: center; 
+ } 
+.mymain{
+    margin-top: 290px !important;
+}
+/* .image1{
+    margin-right: 0px;
+    width: 50px;
+    height: 50px;
+}
+
+.image2{ 
+    display: inline-block;
+    transform: scaleY(-1);
+
+} */
+   
+.section-1{
+    font-size:63px;
+    font-weight:bold;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:3px;
+    color:whitesmoke;
+    text-shadow:4px 4px 4px #000000;
+    
+}
+.section-2{ 
+    margin-left:100px;
+} 
+.section-2card{
+    height: 250px !important;
+}
+.section-3{
+    margin-left:100px;
+    margin-top: 80px;
+
+}
+.section-4{
+    height:800px;
+}
+.secton-5{
+    margin-right: 50px;
+    
+}
+.contimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tit1{
+    display: flex;
+    justify-content: center;
+
+}
+.tit2{
+    height:440px;
+    width:1040px;
+}
+.tit3{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.relative-text {
+    position: relative;
+    top: 15px;
+    left: 80px;
+    right: 30px;
+  }
+
+.section-6{
+    margin-top:500px;
+}
+.column{
+    margin-top:200px;
+    
+}
+.image1{
+    width:800px;
+}
+.test1{
+    padding-right: 40px;
+
+}
+.clip--circle {
+     clip-path: circle(225px); 
+     margin-bottom:50px;
+}
+.custom-link{
+    color: aliceblue;
+}
+
+.img{
+    margin-left: 660px;
+    margin-top:-90px !important;
+}
+.section-7{
+    font-size: 22px;
+    color: #000000;
+    font-weight: bold;
+    margin-inline-start: 36px;
+    margin-bottom: 10px;
+}
+.section-8{
+    font-size:63px;
+    font-weight:bold;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:3px;
+}
+.section-9{
+    font-size:50px;
+    margin-left: 40px;
+    text-shadow: 10px 10px 10px;
+}
+.section-10{
+    margin-left:120px;
+}
+.section-11{
+    margin-left: 60px;
+}
+.section-12{
+    margin-top: 120px;
+}
+.section-12a{
+    margin-top: 140px;
+}
+.section-13{
+    margin-top: 120px;
+}
+.section-14{
+    font-size:63px;
+    font-weight:bold;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+}
+.section-text{
+    font-size:22px;
+    font-weight:33px;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.lastmain{
+    text-align: center;
+    margin-left: 100px;
+}
+
+
