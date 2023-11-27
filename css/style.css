@@ -12,6 +12,9 @@ header{
 .mymain{
     margin-top: 290px !important;
 }
+.circleimg{
+    margin-top: 200px;
+}
 /* .image1{
     margin-right: 0px;
     width: 50px;
@@ -29,13 +32,13 @@ header{
     font-weight:bold;
     font-style:normal;
     font-family:'Times New Roman', Times, serif;
-    letter-spacing:3px;
+    letter-spacing:2px;
     color:whitesmoke;
-    text-shadow:4px 4px 4px #000000;
+    
     
 }
 .section-2{ 
-    margin-left:100px;
+    margin-left:100px; 
 } 
 .section-2card{
     height: 250px !important;
@@ -43,10 +46,12 @@ header{
 .section-3{
     margin-left:100px;
     margin-top: 80px;
-
 }
-.section-4{
-    height:800px;
+
+.section-4{ 
+    height:820px;
+    width: 1200px;
+   
 }
 .secton-5{
     margin-right: 50px;
@@ -69,7 +74,7 @@ header{
 }
 .tit3{
     display: flex;
-    /* justify-content: center; */
+     justify-content: center; 
     align-items: center;
 }
 .relative-text {
